@@ -1,0 +1,15 @@
+Full name: Spiderman,
+Phone Number: 9788 3873 8366,
+E-mail: spidey@gmail.com,
+Address: Neighborhood 34, UC 08755, Manhattan
+Notes: Superhero secret address
+Full name: Dimash Kudaibergen,
+Phone Number: +43 786735 75375,
+E-mail: dimash@kudaibergen.com,
+Address: Kazahstan, Nur-Sultan, Mainstreet 1
+Notes: Best singer in the world
+Full name: Cleopatra,
+Phone Number:  07 6664 88832,
+E-mail: cleopatra@egyptnet.com,
+Address: Giza Pyramid street 35, Cairo, Egypt
+Notes: One of my oldest friends
